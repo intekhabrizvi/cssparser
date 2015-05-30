@@ -1,4 +1,5 @@
-# cssparser
+# Simple PHP CSS Parser
+
 Simple PHP CSS Parser: A Parser to read and alter css contents using PHP or Codeigniter
 
 It is a very simple CSS parser based on PHP, its read CSS file as well as CSS string and make a parsed PHP array.
